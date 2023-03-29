@@ -12,6 +12,32 @@ Se espera que este análisis proporcione una idea general de la evolución del m
 
 ![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/S&P500.png)
 
+El índice S&P 500 representa el desempeño de las 500 empresas más grandes de Estados Unidos, según su capitalización de mercado. Fue creado y es mantenido por Standard & Poor's, una agencia de calificación crediticia y proveedora de índices financieros.
+
+El S&P 500 se considera un indicador representativo del mercado de valores de EE. UU. y se utiliza comúnmente como un barómetro para medir el rendimiento del mercado de valores en general. Las empresas incluidas en el índice representan una amplia gama de sectores, incluyendo tecnología, salud, energía, finanzas y más.
+
+La capitalización de mercado se calcula multiplicando el precio actual de las acciones de una empresa por el número total de acciones en circulación. Por lo tanto, las empresas con mayor capitalización de mercado tienen un mayor peso en el índice. El S&P 500 se considera un índice ponderado por capitalización, lo que significa que las empresas más grandes tienen un mayor impacto en el desempeño general del índice.
+
+Para efectos del presente se reducirá el grupo de compañías al top 10 histórico según su permanencia en durante los últimos 23 años.
+
+**1. ANÁLISIS EXPLORATORIO DE LOS DATOS (*EDA*)**
+Se propone como punto de partida un análisis exploratorio que permita obtener un resumen de estadísticas descriptivas de los datos, análisis univariable (distribución), análisis bivariable (correlación), detección de outliers y su tratamiento, así como cualquier técnica de estudio que permita un completo entendimiento de los datos.
+
+Lo anterior fue desarrollado mediante el IDE **Visual Studio Code** para el lenguaje de desarrollo y programación **Python**.
+
+![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/yahooFinanceAPI.png)
+
+
+
+
+
+
+
+
+
+
+
+
 La propuesta de trabajo incluye los siguientes aspectos a desarrollar con miras a obtener un MVP (Minimum Viable Product), cabe anotar que los datasets para el desarrollo del presente estudio ya han sido proporcionados.
 
 **1. TRANSFORMACIONES**
