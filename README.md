@@ -18,7 +18,7 @@ El S&P 500 se considera un indicador representativo del mercado de valores de EE
 
 La capitalización de mercado se calcula multiplicando el precio actual de las acciones de una empresa por el número total de acciones en circulación. Por lo tanto, las empresas con mayor capitalización de mercado tienen un mayor peso en el índice. El S&P 500 se considera un índice ponderado por capitalización, lo que significa que las empresas más grandes tienen un mayor impacto en el desempeño general del índice.
 
-Para efectos del presente se reducirá el grupo de compañías al top 10 histórico según su permanencia en durante los últimos 23 años.
+**Para efectos del presente análisis se reducirá el grupo de compañías al top 10 histórico según su permanencia en los primeros lugares durante los últimos 23 años.**
 
 # CONTENIDO
 
