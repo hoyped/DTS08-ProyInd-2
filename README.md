@@ -10,7 +10,7 @@ Por otro lado, se explorarán superficialmente algunos factores macroeconómicos
 
 Se espera que este análisis proporcione una idea general de la evolución del mercado de valores de los Estados Unidos y cómo los factores macroeconómicos y políticos han influido en el desempeño del índice S&P 500.
 
-![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/01.png)
+![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/S&P500.png)
 
 La propuesta de trabajo incluye los siguientes aspectos a desarrollar con miras a obtener un MVP (Minimum Viable Product), cabe anotar que los datasets para el desarrollo del presente estudio ya han sido proporcionados.
 
