@@ -25,7 +25,7 @@ Se propone como punto de partida un análisis exploratorio que permita obtener u
 
 Lo anterior fue desarrollado mediante el IDE **Visual Studio Code** para el lenguaje de desarrollo y programación **Python**.
 
-![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/yahooFinanceAPI.png)
+![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/yahooFinanceAPI.jpg)
 
 
 
