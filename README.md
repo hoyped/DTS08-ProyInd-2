@@ -40,6 +40,8 @@ Los resultados obtenidos en éste análisis se dispondrán para visualización e
 
 Lo anterior fue desarrollado utilizando la herramienta de visualización y análisis Power BI.
 
+https://github.com/hoyped/DTS08-ProyInd-2/blob/main/DASH%20Financiero.pbix
+
 Se recomienda seguir el siguiente enlace:
 
 https://github.com/hoyped/DTS08-ProyInd-2/blob/main/Informe.pdf
