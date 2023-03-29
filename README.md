@@ -51,16 +51,16 @@ https://github.com/hoyped/DTS08-ProyInd-2/blob/main/Informe.pdf
 **3. KPI's**
 En el desarrollo del presente proyecto y tomando en cuenta que el Índice S&P 500 es un reflejo de la salud de la economía de los Estados Unidos, se proponen los indicadores de Producto Interno Bruto (PIB), Tasa de Inflación (CIP) y Confianza Empresarial (TC) de dicho país; no debemos desconocer igualmente que el mismo Índice es sinónimo de indicador.
 
-*Producto Interno Bruto*
+***Producto Interno Bruto:***
 El Producto Interno Bruto (PIB) es una medida económica que se utiliza para estimar el valor total de los bienes y servicios finales producidos dentro de un país durante un período de tiempo determinado, generalmente un año. El PIB es una de las medidas más utilizadas para evaluar la salud económica de un país.
 
-*Tasa de Inflación*
+***Tasa de Inflación:***
 La tasa de inflación es la tasa a la cual el nivel general de precios de los bienes y servicios en una economía está aumentando durante un período de tiempo determinado. Es decir, la tasa de inflación mide el aumento porcentual en el precio promedio de una canasta de bienes y servicios en una economía. Una tasa de inflación positiva indica que los precios están aumentando, mientras que una tasa de inflación negativa indica que los precios están disminuyendo con el tiempo.
 
-*Confianza Empresarial*
+***Confianza Empresarial:***
 El índice de confianza empresarial es una medida que se utiliza para evaluar el grado de optimismo o pesimismo que tienen las empresas en relación a las perspectivas económicas futuras. Este índice se basa en encuestas realizadas a empresarios y ejecutivos de empresas, en las que se les pregunta su opinión sobre factores económicos importantes, como la situación actual de la economía, la situación financiera de su empresa, sus planes de inversión, entre otros. Si el índice de confianza empresarial es alto, se espera que las empresas estén dispuestas a invertir más en sus negocios y contratar más trabajadores, lo que a su vez puede impulsar el crecimiento económico.
 
-*Índide S&P 500*
+***Índide S&P 500:***
 Ya definido lineas arriba
 
 ![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/KPI.jpg)
