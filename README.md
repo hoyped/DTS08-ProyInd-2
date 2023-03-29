@@ -20,6 +20,8 @@ La capitalización de mercado se calcula multiplicando el precio actual de las a
 
 Para efectos del presente se reducirá el grupo de compañías al top 10 histórico según su permanencia en durante los últimos 23 años.
 
+# CONTENIDO
+
 **1. ANÁLISIS EXPLORATORIO DE LOS DATOS (*EDA*)**
 Se propone como punto de partida un análisis exploratorio que permita obtener un resumen de estadísticas descriptivas de los datos, análisis univariable (distribución), análisis bivariable (correlación), detección de outliers y su tratamiento, así como cualquier técnica de estudio que permita un completo entendimiento de los datos.
 
@@ -27,6 +29,14 @@ Lo anterior fue desarrollado mediante el IDE **Visual Studio Code** para el leng
 
 ![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/yahooFinanceAPI.jpg)
 
+**2. DASHBOARD**
+Un dashboard es una herramienta de visualización de datos que ayuda a las organizaciones a monitorear y analizar su desempeño en tiempo real y proporciona una vista rápida y clara de los datos clave para la toma de decisiones informadas.
+
+Los resultados obtenidos en éste análisis se dispondrán para visualziación en el archivo (.pbix) para otorgar un panorama visual y dinámico del comportamiento del Índoce S&P 500, así como otros importantes indicadores durante los últimos 23 años (2000-2022).
+
+Lo anterior fue desarrollado utilizando la potente herramienta de visualización y análisis Power BI.
+
+![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/Power BI.png)
 
 
 
@@ -37,22 +47,6 @@ Lo anterior fue desarrollado mediante el IDE **Visual Studio Code** para el leng
 
 
 
-
-La propuesta de trabajo incluye los siguientes aspectos a desarrollar con miras a obtener un MVP (Minimum Viable Product), cabe anotar que los datasets para el desarrollo del presente estudio ya han sido proporcionados.
-
-**1. TRANSFORMACIONES**
-Se proponen las siguientes moficiaciones en los datos:
--   Generar nuevo campo **id** compuesto por la combinación de otros campos contenidos en el dataset.
--   Reemplazar valores nulos del campo **rating** por el string "G"
--   Convertir fechas a formato específico **AAAA-mm-dd**
--   Llevar a minúsculas los campos tipo texto.
--   Generar dos nuevos campos a partir de la separación del campo **duration**.
-
-Lo anterior fue desarrollado mediante el motor de bases de datos **MySQL** y el IDE **Visual Studio Code** para el lenguaje de desarrollo y programación **Python**.
-
-![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/02.jpg)
-
-**2. DESARROLLO API**
 Disponibilizar la información de la empresa mediante el framework ***FastApi***, las consultas a consumirse por el usuario serán:
 -   Película de mayor duración con filtrado de *año*, *plataforma* y *tiempo de duración*.
 -   Cantidad de películas por plataforma que cumplan con un criterio de calificación establecido.
