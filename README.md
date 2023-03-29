@@ -36,7 +36,7 @@ Los resultados obtenidos en éste análisis se dispondrán para visualziación e
 
 Lo anterior fue desarrollado utilizando la potente herramienta de visualización y análisis Power BI.
 
-![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/Power BI.png)
+![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/Power-BI.png)
 
 
 
