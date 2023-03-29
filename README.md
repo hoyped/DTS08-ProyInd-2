@@ -26,7 +26,9 @@ La capitalización de mercado se calcula multiplicando el precio actual de las a
 Se propone como punto de partida un análisis exploratorio que permita obtener un resumen de estadísticas descriptivas de los datos, análisis univariable (distribución), análisis bivariable (correlación), detección de outliers y su tratamiento, así como cualquier técnica de estudio que permita un completo entendimiento de los datos.
 
 Lo anterior fue desarrollado mediante el IDE **Visual Studio Code** para el lenguaje de desarrollo y programación **Python**.
+
 El siguiente vínculo dirije al notebook del análisis:
+
 https://github.com/hoyped/DTS08-ProyInd-2/blob/main/EDA_ProyInd_2.ipynb
 
 ![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/yahooFinanceAPI.jpg)
@@ -37,6 +39,10 @@ Un dashboard es una herramienta de visualización de datos que ayuda a las organ
 Los resultados obtenidos en éste análisis se dispondrán para visualización en el archivo (.pbix) para otorgar un panorama visual y dinámico del comportamiento del Índoce S&P 500, así como otros importantes indicadores durante los últimos 23 años (2000-2022).
 
 Lo anterior fue desarrollado utilizando la herramienta de visualización y análisis Power BI.
+
+Se recomienda seguir el siguiente enlace:
+
+https://github.com/hoyped/DTS08-ProyInd-2/blob/main/Informe.pdf
 
 ![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/Power-BI.png)
 
