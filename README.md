@@ -64,7 +64,7 @@ Ya definido lineas arriba
 ![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/KPI.jpg)
 
 **NOTA**
-Todo lo relacionado con descarga de información, análisis, visualización, datos relevantes y conclusiones pueden consultarse en el archivo tipo notebook (*.ipynb*), así como en el tablero de visualización (*.pbix*)
+Todo lo relacionado con descarga de información, análisis, visualización, datos relevantes y conclusiones pueden consultarse en el archivo tipo notebook (*.ipynb*), así como en el tablero (*.pbix*), descritos anteriormente.
 
 ***MUCHAS GRACIAS***
 
