@@ -38,26 +38,15 @@ Lo anterior fue desarrollado utilizando la potente herramienta de visualización
 
 ![](https://github.com/hoyped/DTS08-ProyInd-2/blob/main/_src/Power-BI.png)
 
+**3. KPI's**
+En el desarrollo del presente proyecto y tomando en cuenta que el Índice S&P 500 es un reflejo de la salud de la economía de los Estados Unidos, se proponen los indicadores de Producto Interno Bruto (PIB), Tasa de Inflación (CIP) y Confianza Empresarial (TC) de dicho país; no debemos desconocer igualmente que el mismo Índice es sinónimo de indicador.
+
+*Producto Interno Bruto*
 
 
 
 
 
-
-
-
-
-Disponibilizar la información de la empresa mediante el framework ***FastApi***, las consultas a consumirse por el usuario serán:
--   Película de mayor duración con filtrado de *año*, *plataforma* y *tiempo de duración*.
--   Cantidad de películas por plataforma que cumplan con un criterio de calificación establecido.
--   Cantidad de películas disponibles por plataforma de streaming.
--   Actor con mayor número de coincidencias mediante filtrado de *plataforma* y *año*.
-
-Lo anterior fue desarrollado según solicitud en el framework de ***FastApi*** y disponibilizado para consumo general en ***render.com***
-
-![](https://github.com/hoyped/DTS08-ProyInd-1/blob/main/_src/03.png)
-
-**3. ANÁLISIS EXPLORATORIO DE LOS DATOS**
 El análisis exploratorio de los datos *-(EDA, por sus siglas en inglés)-* es un punto fundamental en todo proyecto de análisis de datos. Al utilizar técnicas de visualización y análisis estadísticos, es posible identificar patrones y relaciones importantes en los datos, así como posibles problemas o fuentes de error. Estos hallazgos sirven para guiar el diseño e implementación de modelos de análisis más avanzados, ayudando a los analistas a tener una comprensión más profunda de los datos.
 
 Lo anterior fue desarrollado utilizando la libreria **pandas profiling** del lenguaje de desarrollo y programación **Python**
